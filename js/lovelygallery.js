@@ -207,8 +207,3 @@ jQuery(document).ready(function(){
         transition:"slide,crossfade,threedhorizontal,slice,fade,blocks,blinds,shuffle,threed"
     });
 });
-/*
-本代码由js代码收集并编辑整理;
-尊重他人劳动成果;
-转载请保留js代码链接 - www.jsdaima.com
-*/
