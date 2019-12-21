@@ -1,0 +1,32 @@
+﻿@charset "utf-8";
+/*页面开始*/
+.underNone{border-bottom:none;}
+.titleH1{height:40px;line-height:40px;font-size:20px;font-weight:bold;}
+.title{float:right;position:relative;margin-right:-18px;margin-top:-20px;}
+.title li{text-align:center;font-size:17px;float:left;cursor:pointer;margin-right:18px;color:#4c4c4c;font-size:14px;}
+.title li.cur{color:#d80e0e;}
+.titleexp li{float:left;margin-right:10px;}
+.zong{clear:both;width:1320px;height:680px;;overflow:hidden;margin-top:34px;}
+.list{width:6600px;}
+.list .tabCon{float:left;width:1320px;height:680px;}
+.list .tabCon ul{width:1340px;}
+.tabth{width:246px;height:328px;border:1px solid #bebebe;margin-right:20px;float:left;margin-bottom:20px;}
+.tabth a{display:block;}
+.tabth:hover{border:1px solid #d80e0e;}
+.tabth:hover p{color:#d80e0e;text-decoration:none;}
+.tabth a .img{width:226px;height:270px;margin:0 auto;padding-top:10px;}
+.tabth a .img img{width:226px;height:270px;}
+.tabth a p{width:226px;margin:0 auto;height:14px;line-height:14px;overflow:hidden;text-align:center;margin-top:15px;letter-spacing:1px;color:#515151;font-size:14px;}
+
+
+
+
+
+.tabth span{display:inline-block;text-align:center;float:left;}
+#s1,#s2,#s3,#s4,#s5,#s6{height:210px;overflow:hidden;}
+.tabUl{height:200px;overflow:hidden;}
+.tabtr{width:1320px;height:40px;*height:38px;line-height:40px;*line-height:38px;}
+.tabtr span,.tabtr a{display:inline-block;text-align:center;cursor:pointer;float:left;text-decoration:none;}
+.clickbtn{border-radius:5px;padding:5px 10px;}
+.hot{background:#e25353;color:#ffffff;cursor:pointer;}
+.pass{background:#b1b2b3;color:#666666;cursor:no-drop;}
